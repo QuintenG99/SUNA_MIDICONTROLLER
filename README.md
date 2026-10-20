@@ -34,7 +34,7 @@ The firmware is organized into reusable C++ classes, separating controller logic
 
 ## Hardware
 
-The controller combines an Arduino-compatible microcontroller, rotary encoders, addressable LEDs, buttons, toggle switches and an LCD.
+The controller is built around a **Teensy 4.1** microcontroller and combines rotary encoders, addressable LED rings, buttons, toggle switches, and an LCD display.
 
 The hardware front panel was designed in Autodesk Fusion 360.
 
