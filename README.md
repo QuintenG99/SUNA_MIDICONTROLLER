@@ -114,4 +114,4 @@ Work in progress.
 
 ## License
 
-No license has been selected yet.
+MIT License added.
